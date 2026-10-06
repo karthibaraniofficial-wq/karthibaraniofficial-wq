@@ -16,6 +16,23 @@
   <img alt="System Status Ticker" src="./assets/status.svg" width="100%">
 </picture>
 
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://karthi-portfolio-delta.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-karthi--portfolio--delta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Developer Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://earthmind.vercel.app">
+    <img src="https://img.shields.io/badge/Flagship%20Twin-earthmind.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="EarthMind Digital Twin">
+  </a>
+  &nbsp;
+  <a href="mailto:karthibaraniofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Direct%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email">
+  </a>
+</p>
+
 </div>
 
 <br/>
@@ -361,6 +378,16 @@ Godot 4 Engine          ·  GDScript                      ·  Procedural Mesh Sy
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center">
+      <a href="https://karthi-portfolio-delta.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Portfolio-karthi--portfolio--delta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Developer Portfolio">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://earthmind.vercel.app">
+        <img src="https://img.shields.io/badge/Flagship%20Twin-earthmind.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live App">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/karthibaraniofficial-wq">
         <img src="https://img.shields.io/badge/GitHub-karthibaraniofficial--wq-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
       </a>
@@ -368,11 +395,6 @@ Godot 4 Engine          ·  GDScript                      ·  Procedural Mesh Sy
     <td align="center">
       <a href="mailto:karthibaraniofficial@gmail.com">
         <img src="https://img.shields.io/badge/Direct%20Email-karthibaraniofficial%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://earthmind.vercel.app">
-        <img src="https://img.shields.io/badge/Flagship%20Portfolio-earthmind.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live App">
       </a>
     </td>
   </tr>
