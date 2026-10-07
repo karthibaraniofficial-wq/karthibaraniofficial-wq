@@ -108,7 +108,7 @@
   <!-- Hero Typography Section -->
   <g transform="translate(65, 105)">
     <text x="0" y="0" class="text-role">PLANETARY INTELLIGENCE &amp; AUTONOMOUS SYSTEMS</text>
-    <text x="0" y="42" class="text-title">KARTHI</text>
+    <text x="0" y="42" class="text-title">KARTHIKEYAN M</text>
     
     <g transform="translate(0, 78)">
       <text x="0" y="0" class="text-desc">Engineering multimodal AI models, real-time 3D planetary twins,</text>

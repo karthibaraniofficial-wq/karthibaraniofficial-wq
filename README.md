@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
-  <img alt="Karthi — AI / ML Developer & Planetary Systems Architect" src="./assets/hero.svg" width="100%">
+  <img alt="Karthikeyan M — AI / ML Developer & Planetary Systems Architect" src="./assets/hero.svg" width="100%">
 </picture>
 
 <br/>
@@ -353,7 +353,7 @@ Godot 4 Engine          ·  GDScript                      ·  Procedural Mesh Sy
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=karthibaraniofficial-wq&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&rank_icon=github" alt="Karthi's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=karthibaraniofficial-wq&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&rank_icon=github" alt="Karthikeyan M's GitHub Stats" />
     </td>
     <td align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthibaraniofficial-wq&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />

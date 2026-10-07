@@ -57,7 +57,7 @@
   <circle cx="42" cy="23" r="4.5" fill="#f59e0b" opacity="0.8" />
   <circle cx="58" cy="23" r="4.5" fill="#10b981" opacity="0.8" />
   
-  <text x="82" y="26" class="text-title">DEVELOPER IDENTITY CARD // SPEC_ID: KARTHI.DEV // PROTOCOL: v2.6</text>
+  <text x="82" y="26" class="text-title">DEVELOPER IDENTITY CARD // SPEC_ID: KARTHIKEYAN-M.DEV // PROTOCOL: v2.6</text>
   <text x="750" y="26" class="text-meta">HASH: 269653815 // VERIFIED</text>
 
   <!-- Left Column: Operator Identity Profile -->
@@ -67,7 +67,7 @@
 
     <g transform="translate(20, 24)">
       <text x="0" y="0" class="text-meta">OPERATOR // CLASS: FULL-STACK AI BUILDER</text>
-      <text x="0" y="24" class="text-name">KARTHI (Karthibarani)</text>
+      <text x="0" y="24" class="text-name">KARTHIKEYAN M (Karthibarani)</text>
       <text x="0" y="44" class="text-sub">AI / ML Engineer · Planetary Systems Architect</text>
       
       <!-- Divider line -->
