@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/Flagship%20Twin-earthmind.vercel.app-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="EarthMind Digital Twin">
   </a>
   &nbsp;
+  <a href="https://roadwise-game.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Simulator-roadwise--game.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="RoadWise Elite Simulator">
+  </a>
+  &nbsp;
   <a href="mailto:karthibaraniofficial@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Direct%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email">
   </a>
@@ -234,6 +238,47 @@
             <div align="center">
               <a href="https://ai.studio/apps/35bda2ff-57bc-41ff-9fcd-8685f8fc704d"><b>[ Open in AI Studio ↗ ]</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
               <a href="https://github.com/karthibaraniofficial-wq/XAURALYS"><b>[ View Source Code → ]</b></a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <!-- CARD 7: ROADWISE ELITE -->
+    <td width="50%" valign="top">
+      <table width="100%" cellspacing="0" cellpadding="10" border="1" style="border-collapse:collapse; border-color:#1e293b;">
+        <tr>
+          <td>
+            <div align="right"><code>SYS_ID: 08</code> &nbsp; <img src="https://img.shields.io/badge/Status-Production%20Live-10b981?style=flat-square" alt="Status"></div>
+            <h3>🏍️ ROADWISE ELITE</h3>
+            <p><b>Autonomous 3D Motorcycle Simulator &amp; Traffic-Rules Engine</b></p>
+            <p>Procedural Indian metropolitan road network spanning 8 interconnected districts, deterministic A* navigation routing, multi-agent AI traffic simulation, progressive braking physics, 10 delivery missions, and Firebase Cloud Firestore multi-slot persistence.</p>
+            <p><b>Stack:</b> <code>Three.js</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Firebase Auth &amp; Firestore</code> · <code>A* Pathfinding</code></p>
+            <p><b>Impact:</b> Evaluates traffic-rule compliance, helmet enforcement, and safe road navigation with real-time HUD telemetry.</p>
+            <hr style="border-color:#1e293b;"/>
+            <div align="center">
+              <a href="https://roadwise-game.vercel.app"><b>[ Open Live Game ↗ ]</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+              <a href="https://github.com/karthibaraniofficial-wq/ROADWISE-GAME"><b>[ View Source Code → ]</b></a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- CARD 8: ASTRA-SENTINEL -->
+    <td width="50%" valign="top">
+      <table width="100%" cellspacing="0" cellpadding="10" border="1" style="border-collapse:collapse; border-color:#1e293b;">
+        <tr>
+          <td>
+            <div align="right"><code>SYS_ID: 09</code> &nbsp; <img src="https://img.shields.io/badge/Status-Active%20R%26D-38bdf8?style=flat-square" alt="Status"></div>
+            <h3>🛰️ ASTRA-SENTINEL</h3>
+            <p><b>AI Space Situational Awareness &amp; Satellite Mission Control</b></p>
+            <p>High-reliability space mission control platform featuring multi-agent orbital risk assessment, debris conjunction analysis, and temporal event replay. Adheres to an observable operational data loop with immutable audit trails.</p>
+            <p><b>Stack:</b> <code>TypeScript</code> · <code>FastAPI</code> · <code>Orbital Mechanics</code> · <code>Three.js</code> · <code>Multi-Agent</code></p>
+            <p><b>Impact:</b> Conjunction threat calculation and satellite fleet decision-support with deterministic verification.</p>
+            <hr style="border-color:#1e293b;"/>
+            <div align="center">
+              <a href="https://github.com/karthibaraniofficial-wq"><b>[ Mission Control Repository → ]</b></a>
             </div>
           </td>
         </tr>
