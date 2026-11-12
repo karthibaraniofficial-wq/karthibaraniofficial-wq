@@ -32,6 +32,10 @@
     <img src="https://img.shields.io/badge/Live%20Simulator-roadwise--game.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="RoadWise Elite Simulator">
   </a>
   &nbsp;
+  <a href="#-loveverse--a-world-made-for-two">
+    <img src="https://img.shields.io/badge/Unity%206-LOVEVERSE-f43f5e?style=for-the-badge&logo=unity&logoColor=white" alt="LOVEVERSE Engine">
+  </a>
+  &nbsp;
   <a href="mailto:karthibaraniofficial@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Direct%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email">
   </a>
@@ -285,6 +289,46 @@
       </table>
     </td>
   </tr>
+  <tr>
+    <!-- CARD 9: LOVEVERSE -->
+    <td width="50%" valign="top">
+      <table width="100%" cellspacing="0" cellpadding="10" border="1" style="border-collapse:collapse; border-color:#1e293b;">
+        <tr>
+          <td>
+            <div align="right"><code>SYS_ID: 10</code> &nbsp; <img src="https://img.shields.io/badge/Status-Four--Platform%20Engine-f43f5e?style=flat-square" alt="Status"></div>
+            <h3>💖 LOVEVERSE — A World Made for Two</h3>
+            <p><b>Universal 3D Romantic Multiplayer Open-World &amp; Cooperative Simulation</b></p>
+            <p>An anime-style 3D shared life simulation built from scratch for Android, iOS, Windows, and Linux. Features consensual synchronized paired interactions (holding hands, hugging, dancing, stargazing), dynamic 24-hour day/night cycle, modular character customization, grid furniture placement, and in-game photo memories.</p>
+            <p><b>Stack:</b> <code>Unity 6 LTS</code> · <code>C# 9.0+</code> · <code>URP Cel-Shading</code> · <code>Photon Fusion 2</code> · <code>Fastify</code> · <code>Cloud Firestore</code></p>
+            <p><b>Impact:</b> Unified cross-platform multiplayer engine engineered for cross-play with strict zero-client-trust cloud authorization.</p>
+            <hr style="border-color:#1e293b;"/>
+            <div align="center">
+              <a href="https://github.com/karthibaraniofficial-wq"><b>[ Four-Platform Repository → ]</b></a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- CARD 10: KARTHI AI ENGINEERING OS -->
+    <td width="50%" valign="top">
+      <table width="100%" cellspacing="0" cellpadding="10" border="1" style="border-collapse:collapse; border-color:#1e293b;">
+        <tr>
+          <td>
+            <div align="right"><code>SYS_ID: 11</code> &nbsp; <img src="https://img.shields.io/badge/Architecture-Antigravity%202.0-8b5cf6?style=flat-square" alt="Status"></div>
+            <h3>⚡ KARTHI AI ENGINEERING OS</h3>
+            <p><b>Autonomous Multi-Agent Architecture &amp; Customization Ecosystem</b></p>
+            <p>High-throughput agentic engineering harness orchestrating parallel specialist subagents, Model Context Protocol (MCP) servers, 35+ procedural production skills, and continuous deterministic verification loops across Linux, Web, and Game engines.</p>
+            <p><b>Stack:</b> <code>Antigravity 2.0</code> · <code>MCP Servers</code> · <code>FastMCP</code> · <code>Python 3.12</code> · <code>TypeScript</code> · <code>Linux Automation</code></p>
+            <p><b>Impact:</b> Accelerates complex production-grade software delivery from concept to verified zero-defect deployment.</p>
+            <hr style="border-color:#1e293b;"/>
+            <div align="center">
+              <a href="https://github.com/karthibaraniofficial-wq"><b>[ Explore Architecture Specs → ]</b></a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -372,19 +416,22 @@ Vite 6                  ·  Tailwind CSS 3.4              ·  Zustand & TanStack
 
 ### 🛠️ Backend, Storage & Protocols
 ```text
-Python 3.12+ (FastAPI)  ·  Supabase / PostgreSQL         ·  WebSockets (Full-Duplex)
-Bun Runtime             ·  Vercel Edge Cloud             ·  RESTful OpenAPI v1
+Python 3.12+ (FastAPI)  ·  Node.js (Fastify / TS)        ·  Supabase / PostgreSQL
+Cloud Firestore         ·  Firebase Authentication       ·  WebSockets (Full-Duplex)
+Bun Runtime             ·  Vercel Edge Cloud             ·  RESTful OpenAPI v3
 ```
 
 ### 🎮 Game Development & Systems Simulation
 ```text
-Godot 4 Engine          ·  GDScript                      ·  Procedural Mesh Synthesis
+Unity 6 LTS (URP)       ·  C# 9.0+ (.NET Standard)       ·  Photon Fusion 2 (Shared Mode)
+Godot 4 Engine          ·  GDScript 2.0                  ·  Cinemachine & Input System
+HLSL Cel Shading        ·  Procedural Mesh Synthesis     ·  Cross-Platform PAL Architecture
 ```
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,threejs,tailwind,fastapi,postgres,supabase,vite,godot,linux,git,docker&perline=7" alt="Verified Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,py,cs,unity,godot,react,nextjs,threejs,tailwind,fastapi,postgres,supabase,vite,linux,git,docker&perline=8" alt="Verified Technologies" />
 </div>
 
 <br/>
